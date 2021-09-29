@@ -1,0 +1,15 @@
+.main-block {
+  background-color: aqua;
+  border: 1px solid green;
+}
+
+.list-block {
+  background-color: bisque;
+  float:left;
+  width:300px
+}
+
+.text-block {
+  background-color: darkgray;
+  float: right;
+}

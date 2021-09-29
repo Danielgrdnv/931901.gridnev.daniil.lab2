@@ -1,0 +1,22 @@
+main {
+  line-height: 25px;
+}
+
+.block1, .block2 {
+  line-height: normal;
+  color: white;
+  overflow: auto;
+  margin: auto;
+  width: 530px;
+}
+
+.block1 {
+  background-color: forestgreen;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.block2 {
+  background-color: blue;
+  padding: 40px;
+}

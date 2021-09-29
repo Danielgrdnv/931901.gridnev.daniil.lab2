@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-block {
+  background-color: aqua;
+}
+
+.list-block {
+  background-color: bisque;
+  width: 200px;
+  padding-top: 5px;
+  float: left;
+}
+
+.text-block {
+  background-color: darkgray;
+  margin-left: 200px;
+}
+
+.footer {
+  margin: 0;
+  padding: 0;
+  height: 50px;
+  width: 100%;
+  background-color: green;
+  position: fixed;
+  bottom: 0px;
+}

@@ -1,0 +1,35 @@
+.main-block {
+  background-color: aqua;
+  border: 1px solid green;
+}
+
+.text-block{
+  background-color: darkgray;
+}
+
+.list-block{
+  background-color: bisque;
+}
+
+@media (min-width:701px){	
+	.text-block{
+		margin-left: 505px;
+		margin-right: 5px;
+	}	
+}
+
+.list-block{
+		float: left;
+		width: 500px;
+	}
+
+@media (max-width: 700px){
+	.list-block{
+		width: 120px;
+	}
+
+	.text-block{
+		width: 360px;
+		clear: both;
+	}	
+}

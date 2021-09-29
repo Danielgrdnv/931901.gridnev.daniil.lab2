@@ -1,0 +1,13 @@
+main{
+    line-height:25px;
+}
+
+.block{
+   max-width: 600px;
+    background-color: blue;
+    color:white;
+    overflow:auto;
+    margin:auto;
+    display:flow;
+    width:fit-content; 
+}
