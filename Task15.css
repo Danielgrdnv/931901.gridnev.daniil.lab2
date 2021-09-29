@@ -1,11 +1,11 @@
 footer {
-    background-color: bisque;
-  }
-  
-div{
-    width: 200px;
-    height: 80px;
-    display: inline-block;
-    background-color:aquamarine;
-    margin: 10px;
+  background-color: bisque;
+}
+
+div {
+  width: 200px;
+  height: 80px;
+  display: inline-block;
+  background-color: aquamarine;
+  margin: 10px;
 }
