@@ -1,0 +1,41 @@
+.main-block {
+  background-color: aqua;
+  border: 1px solid green;
+}
+
+.list-block {
+  background-color: bisque;
+}
+
+.text-block {
+  background-color: darkgray;
+}
+
+
+@media(min-width:701px){
+
+  .list-block {
+    float: left;
+    width: 30%;
+  }
+  
+  .text-block {
+    margin-left: 30%;
+  }
+
+}
+
+
+@media(max-width:700px){
+
+li{
+  display:inline;
+}
+
+  .list-block {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+}

@@ -1,12 +1,11 @@
-.box{
-margin: 20px;
-background-color: aquamarine;
-width: 200px;
-height: 100px;
+.box {
+  margin: 20px;
+  background-color: aquamarine;
+  width: 200px;
+  height: 100px;
 }
 
-footer{
-    clear:both;
-    background-color: bisque;
-
+footer {
+  clear: both;
+  background-color: bisque;
 }

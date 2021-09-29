@@ -1,16 +1,16 @@
-body{
-    margin: 0;
-    padding: 0;
+body {
+  margin: 0;
+  padding: 0;
 }
 
-main{
-    line-height:25px;
+main {
+  line-height: 25px;
 }
 
-.blue-background{
-    width: 600px;
-    background-color: blue;
-    color:white;
-    overflow:auto;
-    margin:auto;
+.blue-background {
+  width: 600px;
+  background-color: blue;
+  color: white;
+  overflow: auto;
+  margin: auto;
 }

@@ -6,10 +6,15 @@
 .list-block {
   background-color: bisque;
   float:left;
-  width:300px
+  width:30%;
 }
 
 .text-block {
   background-color: darkgray;
-  float: right;
+  margin-left: 30%;
+}
+
+img{
+    float:right;
+    width: 50%;
 }

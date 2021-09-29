@@ -1,9 +1,9 @@
-article{
-    background-color: aqua;
-    height: 265px;
-    border: 1px solid green;
+article {
+  background-color: aqua;
+  height: 265px;
+  border: 1px solid green;
 }
 
-img{
-    float: right;
+img {
+  float: right;
 }

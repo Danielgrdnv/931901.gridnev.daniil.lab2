@@ -2,7 +2,8 @@ main {
   line-height: 25px;
 }
 
-.block1, .block2 {
+.block1,
+.block2 {
   line-height: normal;
   color: white;
   overflow: auto;

@@ -1,7 +1,7 @@
-.block{
-    width: 600px;
-    background-color: blue;
-    color:white;
-    overflow:auto;
-    margin:auto;
+.block {
+  width: 600px;
+  background-color: blue;
+  color: white;
+  overflow: auto;
+  margin: auto;
 }

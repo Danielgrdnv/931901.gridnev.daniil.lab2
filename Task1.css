@@ -1,40 +1,40 @@
-body{
-    margin: 0;
-    padding: 0;
+body {
+  margin: 0;
+  padding: 0;
 }
 
-main{
-    line-height:25px;
+main {
+  line-height: 25px;
 }
 
-header{
-    background-color:#EAEAEA;
-    overflow: hidden;
-    padding-bottom: 30px;
+header {
+  background-color: #eaeaea;
+  overflow: hidden;
+  padding-bottom: 30px;
 }
 
-footer{
-    padding:5px;
-    background-color:black;
-    text-align: center;
-    clear:both;
+footer {
+  padding: 5px;
+  background-color: black;
+  text-align: center;
+  clear: both;
 }
 
-a{
-    color:#FDE95E;
+a {
+  color: #fde95e;
 }
 
-i{
-    color: red;
+i {
+  color: red;
 }
 
-.left-column{
-    background-color: #C8FC98;
-    float:left;
-    width:200px;
+.left-column {
+  background-color: #c8fc98;
+  float: left;
+  width: 200px;
 }
 
-.right-column{
-    background-color:#FDE95E;
-    float:right;
+.right-column {
+  background-color: #fde95e;
+  float: right;
 }
